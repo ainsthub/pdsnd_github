@@ -1,5 +1,6 @@
 ### Date created
 Files in folder created January 12, 2021
+Files modified January 14, 2021
 
 ### THE BIKESHARE PROJECT
 
@@ -7,7 +8,7 @@ Files in folder created January 12, 2021
 This project uses python with pandas library to analyze available data on bike share data of the first half of 2017.
 
 ### Files used
-bikeshare_2.py
+bikeshare_2.py - modified on January 14, 2021
 washington.csv
 new_york_city.csv
 chicago.csv
