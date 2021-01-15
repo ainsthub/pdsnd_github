@@ -19,7 +19,7 @@ def get_filters():
     print('Hello! Let\'s explore some US bikeshare data!')
     print('The program will ask you for a (1) city, (2) a month, and a (3) day of the week.\n')
 
-    # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
+    # get user input for one of three city names.
     city = ''
     while city not in CITY_DATA.keys():
         city = input('Please choose the city: Chicago, New York City, Washington:\n').lower()
