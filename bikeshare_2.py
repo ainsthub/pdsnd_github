@@ -17,6 +17,7 @@ def get_filters():
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
     print('Hello! Let\'s explore some US bikeshare data!')
+    print('The program can analyze bikehare data for three cities of the first half of 2017.')
     print('The program will ask you for a (1) city, (2) a month, and a (3) day of the week.\n')
 
     # get user input for one of three city names.
